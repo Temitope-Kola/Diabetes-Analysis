@@ -40,7 +40,8 @@ ___
 ___
 
 ## ANALYSIS AND VISUALIZATION
-___
+___  
+![image alt]()
 This dashboard has a single report page.
 ___
 I am interested in;
