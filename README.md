@@ -47,7 +47,7 @@ This dashboard has a single report page.
 ___
 I am interested in;
 * finding out how smoking is linked to diabetes
-* the relationship between body mass index, blood glucose level and diabetes
+* the relationship between body mass index and diabetes
 * if truly age is, in some way,is linked to diabetes.
 
 ___
@@ -71,6 +71,12 @@ ___
 * Overweight individuals: 3,300 cases, 7.90% have diabetes, despite being the largest group overall.
 * Normal BMI individuals: Fewer diabetes cases (839), suggesting lower risk. Only 3.84% have diabetes, highlighting the protective effect of a healthy weight.
 * Underweight individuals: Only 64 cases of diabetes, the lowest among all groups. Hence Diabetes prevalence is very low at 0.75%.
+  ___
+  
+* ## if truly age is, in some way,is linked to diabetes.
+___  
+![image alt]()
+
 
 
 ## CONCLUSION
