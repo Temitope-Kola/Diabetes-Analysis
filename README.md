@@ -1,3 +1,4 @@
+
 # Diabetes Prediction
 ## by Kola Temitope, Deborah
 ___
@@ -51,15 +52,26 @@ I am interested in;
 
 ___
 
-*finding out how smoking is linked to diabetes.
+* ## finding out how smoking is linked to diabetes.
 ___  
 ![image alt](https://github.com/Temitope-Kola/Diabetes-Analysis/blob/main/IMAGES/SMOKING_SS.png?raw=true)  
-* Current and former smokers have significantly higher diabetes prevalence (10-17%), compared to non-smokers and those with no history (~4%).
+
+* No Info: The majority of individuals (31,442) have no smoking history provided, with 1,445 diabetes cases. 4.39% have diabetes.
+* Current smokers: 948 diabetes cases, suggesting a potential risk factor. 10.31% have diabetes, suggesting a strong association.
+* Former smokers: 1,590 diabetes cases, Diabetes prevalence rises to 17.10%, indicating lingering health effects of smoking.
+* Never and ever smokers: 3,807 diabetes cases, the highest in this category, 9.95% have diabetes.
+* Not current smokers: 690 diabetes cases,10.84% have diabetes.
 
 ___
-* the relationship between body mass index and diabetes.
+* ## the relationship between body mass index and diabetes.
   ___
  ![image alt](https://github.com/Temitope-Kola/Diabetes-Analysis/blob/main/IMAGES/BMI_SS.png?raw=true)
+ 
+ * Obese individuals: 4,277 cases of diabetes, 17.91% have diabetes, the highest among BMI categories.
+* Overweight individuals: 3,300 cases, 7.90% have diabetes, despite being the largest group overall.
+* Normal BMI individuals: Fewer diabetes cases (839), suggesting lower risk. Only 3.84% have diabetes, highlighting the protective effect of a healthy weight.
+* Underweight individuals: Only 64 cases of diabetes, the lowest among all groups. Hence Diabetes prevalence is very low at 0.75%.
+
 
 ## CONCLUSION
 ___
