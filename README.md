@@ -5,7 +5,7 @@ ___
 ## INTRODUCTION
 ___
 Diabetes affects millions of people worldwide, and understanding what puts certain groups at higher risk is crucial for prediction, prevention and management which are the main aims of this analysis. 
-In this analysis, I looked at data from over 96,000 individuals to explore how factors like age, BMI, and smoking habits are linked to diabetes.  
+In this analysis, I looked at a diabetes prediction dataset from KAAGLE covering over 96,000 individuals to explore how factors like age, BMI, and smoking habits are linked to diabetes.  
 ___
 
 ## PROBLEM STATEMENT
@@ -38,6 +38,7 @@ ___
 * I transformed the data using very complex Excel functions, combining the IF function alomgside OR.
 * I was able to do this by carefully going through each column and understanding what must be done, it was very delightful to see that, the transformation I had made provided better perspective to my analysis.
 ![image alt](https://github.com/Temitope-Kola/Diabetes-Analysis/blob/main/IMAGES/CLEANED_DATA.png?raw=true)
+![image alt]()
 ___
 
 ## ANALYSIS AND VISUALIZATION
