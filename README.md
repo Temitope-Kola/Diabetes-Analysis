@@ -41,13 +41,13 @@ ___
 
 ## ANALYSIS AND VISUALIZATION
 ___  
-![image alt]()
+![image alt](https://github.com/Temitope-Kola/Diabetes-Analysis/blob/main/IMAGES/DASHBOARD_ON_DIABETES_PREDICTION.png?raw=true)
 This dashboard has a single report page.
 ___
 I am interested in;
-* finding out how smoking is inked to diabetes
+* finding out how smoking is linked to diabetes
 * the relationship between body mass index, blood glucose level and diabetes
-* if truly age is, in some way, linked to diabetes.
+* if truly age is, in some way,is linked to diabetes.
 
 ___
 
