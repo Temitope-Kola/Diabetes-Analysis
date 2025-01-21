@@ -38,7 +38,7 @@ ___
 * I transformed the data using very complex Excel functions, combining the IF function alomgside OR.
 * I was able to do this by carefully going through each column and understanding what must be done, it was very delightful to see that, the transformation I had made provided better perspective to my analysis.
 ![image alt](https://github.com/Temitope-Kola/Diabetes-Analysis/blob/main/IMAGES/CLEANED_DATA.png?raw=true)
-![image alt]()
+![image alt](https://github.com/Temitope-Kola/Diabetes-Analysis/blob/main/IMAGES/FORMULAR_SS.png?raw=true)
 ___
 
 ## ANALYSIS AND VISUALIZATION
