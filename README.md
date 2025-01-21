@@ -53,7 +53,8 @@ ___
 
 *finding out how smoking is linked to diabetes.
 ___  
-![image alt]
+![image alt](https://github.com/Temitope-Kola/Diabetes-Analysis/blob/main/IMAGES/SMOKING_SS.png?raw=true)  
+* Current and former smokers have significantly higher diabetes prevalence (10-17%), compared to non-smokers and those with no history (~4%).
 
 ## CONCLUSION
 ___
