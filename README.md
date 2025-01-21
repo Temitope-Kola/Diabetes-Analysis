@@ -24,8 +24,10 @@ ___
 ## SKILLLS DEMONSTRATED
 ___
 For this project, I optimized EXCEL for data cleaning,transformation and visualization.
+___
 ## DATA CLEANING.
-The dataset was very dirty with missing values,duplicates and blanks. I did lots of cleaning using Excel but I'll walk through the most import parts
+___
+The dataset was very dirty with missing values,duplicates and blanks. I did lots of cleaning using Excel but I'll walk through the most import parts  
 ![](images/dirt_data.jpg)
 ___
 
