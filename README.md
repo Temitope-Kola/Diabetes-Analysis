@@ -51,6 +51,10 @@ I am interested in;
 
 ___
 
+*finding out how smoking is linked to diabetes.
+___  
+![image alt]
+
 ## CONCLUSION
 ___
 *	Age and Diabetes:
