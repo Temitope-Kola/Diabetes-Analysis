@@ -75,7 +75,14 @@ ___
   
 * ## if truly age is, in some way,is linked to diabetes.
 ___  
-![image alt]()
+![image alt](https://github.com/Temitope-Kola/Diabetes-Analysis/blob/main/IMAGES/AGE_SS.png)
+
+* Ages 0-20: 18,925 individuals without diabetes, but only 106 with diabetes. Only 0.56% have diabetes, showing very low prevalence.
+* Ages 21-40: Diabetes cases increase slightly (603 individuals) among 24,001 without diabetes. Diabetes prevalence increases to 2.45%.
+* Ages 41-60: A notable rise in diabetes cases (2,854) compared to earlier age groups. A significant rise to 10.04%, suggesting increased risk after 40.
+* Ages 61-80: A significant increase in diabetes prevalence (3,904 cases). Diabetes prevalence jumps to 20.53%, indicating a high-risk group.
+
+
 
 
 
