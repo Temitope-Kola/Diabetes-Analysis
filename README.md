@@ -43,7 +43,8 @@ ___
 
 ## ANALYSIS AND VISUALIZATION
 ___  
-![image alt](https://github.com/Temitope-Kola/Diabetes-Analysis/blob/main/IMAGES/DASHBOARD_ON_DIABETES_PREDICTION.png?raw=true)
+![image alt](https://raw.githubusercontent.com/Temitope-Kola/Diabetes-Analysis/efbccfe2a3538e490f05885bab4f709aa94fd961/IMAGES/UPDATE%20DASHBOARD.png)  
+
 This dashboard has a single report page.
 ___
 I am interested in;
@@ -55,7 +56,7 @@ ___
 
 * ## finding out how smoking is linked to diabetes.
 ___  
-![image alt](https://github.com/Temitope-Kola/Diabetes-Analysis/blob/main/IMAGES/SMOKING_SS.png?raw=true)  
+![image alt](https://raw.githubusercontent.com/Temitope-Kola/Diabetes-Analysis/efbccfe2a3538e490f05885bab4f709aa94fd961/IMAGES/UPDATE%20DASHBOARD.png)  
 
 * No Info: The majority of individuals (31,442) have no smoking history provided, with 1,445 diabetes cases. 4.39% have diabetes.
 * Current smokers: 948 diabetes cases, suggesting a potential risk factor. 10.31% have diabetes, suggesting a strong association.
