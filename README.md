@@ -12,7 +12,7 @@ ___
 
 The purpose of this analysis is to get insight of which risk factor is more associsated with diabetes, exploring how each of these factors are linked to diabetes. I am interested in;
 * finding out how smoking is inked to diabetes
-* the relationship between body mass index, blood glucose level and diabetes
+* the relationship between body mass index and diabetes
 * if truly age is, in some way, linked to diabetes
 ___
 ## DATA SOURCING
@@ -57,9 +57,9 @@ ___
 * Current and former smokers have significantly higher diabetes prevalence (10-17%), compared to non-smokers and those with no history (~4%).
 
 ___
-* the relationship between body mass index, blood glucose level and diabetes.
+* the relationship between body mass index and diabetes.
   ___
- ![image alt]()
+ ![image alt](https://github.com/Temitope-Kola/Diabetes-Analysis/blob/main/IMAGES/BMI_SS.png?raw=true)
 
 ## CONCLUSION
 ___
