@@ -28,14 +28,15 @@ ___
 ## DATA CLEANING.
 ___
 The dataset was very dirty with missing values,duplicates and blanks. I did lots of cleaning using Excel but I'll walk through the most import parts  
-![](images/dirt_data.jpg)
+![image alt](https://github.com/Temitope-Kola/Diabetes-Analysis/blob/main/IMAGES/DIRT_%20DATA.png?raw=true)
 ___
 
 ## DATA TRANSFORMATION
 
 * The dataset had fewwer columns as compared to after I transformed it. I observed, to get the most out of the dataset, it was important to create more columns from the existing columns.
 * I transformed the data using very complex Excel functions, combining the IF function alomgside OR.
-* I was able to do this by carefully going through each column and understanding what must be done, it was very delightful to see that, the transformation I had made provided better perspective to my analysis. 
+* I was able to do this by carefully going through each column and understanding what must be done, it was very delightful to see that, the transformation I had made provided better perspective to my analysis.
+  
 ___
 
 ## ANALYSIS AND VISUALIZATION
