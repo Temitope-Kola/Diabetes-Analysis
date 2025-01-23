@@ -54,9 +54,9 @@ I am interested in;
 
 ___
 
-* ## finding out how smoking is linked to diabetes.
+* # finding out how smoking is linked to diabetes.
 ___  
-![image alt](https://raw.githubusercontent.com/Temitope-Kola/Diabetes-Analysis/efbccfe2a3538e490f05885bab4f709aa94fd961/IMAGES/UPDATE%20DASHBOARD.png)  
+![image alt](https://github.com/user-attachments/assets/9f221229-6c7d-435d-9d86-8b665ae591c6)
 
 * No Info: The majority of individuals (31,442) have no smoking history provided, with 1,445 diabetes cases. 4.39% have diabetes.
 * Current smokers: 948 diabetes cases, suggesting a potential risk factor. 10.31% have diabetes, suggesting a strong association.
@@ -65,7 +65,7 @@ ___
 * Not current smokers: 690 diabetes cases,10.84% have diabetes.
 
 ___
-* ## the relationship between body mass index and diabetes.
+* # the relationship between body mass index and diabetes.
   ___
  ![image alt](https://github.com/Temitope-Kola/Diabetes-Analysis/blob/main/IMAGES/BMI_SS.png?raw=true)
  
@@ -75,7 +75,7 @@ ___
 * Underweight individuals: Only 64 cases of diabetes, the lowest among all groups. Hence Diabetes prevalence is very low at 0.75%.
   ___
   
-* ## if truly age is, in some way,is linked to diabetes.
+* # if truly age is, in some way,is linked to diabetes.
 ___  
 ![image alt](https://github.com/Temitope-Kola/Diabetes-Analysis/blob/main/IMAGES/AGE_SS.png)
 
@@ -88,7 +88,7 @@ ___
 
 
 
-## CONCLUSION
+# CONCLUSION
 ___
 *	Age and Diabetes:
 	Diabetes prevalence increases significantly with age, particularly after 40 years, Peaking at over 20% for individuals 61 years and older.
