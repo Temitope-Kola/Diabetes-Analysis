@@ -1,6 +1,6 @@
 
 # Diabetes Prediction
-## by Kola Temitope, Deborah
+## by DEBORAH KOLA ADEMOLA
 ___
 ## INTRODUCTION
 ___
