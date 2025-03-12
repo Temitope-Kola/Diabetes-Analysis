@@ -1,5 +1,6 @@
 
 # Diabetes Prediction
+![image alt](https://github.com/Temitope-Kola/Diabetes-Analysis/blob/main/IMAGES/diabetes.png?raw=true)
 ## by DEBORAH KOLA ADEMOLA
 ___
 ## INTRODUCTION
